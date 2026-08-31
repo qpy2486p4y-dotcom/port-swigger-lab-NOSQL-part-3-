@@ -28,6 +28,6 @@ admin' && this.password.match(/\d/) || 'a'=='b
 
 5 start attack and run through it than see error   ok let's look for a difference and piece together what the words are trying to say  
 
-6 ok highlight if you get stuck and see that the password to administrator is clyiywzj 
+6 ok highlight if you get stuck and see that the password to administrator is whatever comes back on the highlighted payload
 
 GOOD JOB you are now 1% more professional 
